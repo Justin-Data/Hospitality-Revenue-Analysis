@@ -17,7 +17,7 @@ Steps taken:
 - Assessed the data and utilized Power Query to clean the data accordingly
 - Made use of DAX to create measures surrounding key metrics in the hospitality industry
 - Explored the data to identify potential insights
-- Vizualised data to convey performance of the company over the course of 3 months
+- Vizualised data to convey performance of the company over 3 months worth of data
 
 # Findings
 
