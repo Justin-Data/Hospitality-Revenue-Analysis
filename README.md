@@ -1,5 +1,6 @@
 # Hospitality-Revenue-Analysis
-![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis/assets/137729013/b50da0f4-89be-4ced-946a-54ce3b7c9ea0)
+![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis/assets/137729013/eb005d54-0469-4603-8ac9-d37ed10b6427)
+
 
 The link to the interactive Power BI dashboard can be accessed here: (link here)
 
