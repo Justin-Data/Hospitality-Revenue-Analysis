@@ -21,4 +21,6 @@ Steps taken:
 
 # Findings
 
-Out of the total number of bookings, just 15% were booked directly. This could be an issue as indirect bookings charge commission which will ultimately reduce the total revenue for the hotel company.
+Out of the total number of bookings, just 15% were booked directly. This could be an issue as indirect bookings, such as through online travel agencies, charge commission which will ultimately reduce the total revenue for the hotel company.
+
+- As such, emphasising direct bookings could lead to increased revenue for the company, which could be achieved by providing an incentive for customers to book directly and marketing the hotel website acccordingly.
