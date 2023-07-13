@@ -1,5 +1,6 @@
 # Hospitality-Revenue-Analysis
-![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis/assets/137729013/eb005d54-0469-4603-8ac9-d37ed10b6427)
+![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis-PowerBI/assets/137729013/1ce78e81-add7-40a5-8f96-ba3141b663c5)
+
 
 
 The link to the interactive Power BI dashboard can be accessed here: (link here)
@@ -23,6 +24,8 @@ Steps taken:
 
 Out of the total number of bookings, just 15% were booked directly. This could be an issue as indirect bookings, such as through online travel agencies, charge commission which will ultimately reduce the total revenue for the hotel company.
 
-- As such, emphasising direct bookings could lead to increased revenue for the company, which could be achieved by providing an incentive for customers to book directly and marketing the hotel website acccordingly.
+- As such, emphasizing direct bookings could lead to increased revenue for the company, which could be achieved by providing an incentive for customers to book directly and marketing the hotel website acccordingly.
 
-Furthermore, the hotel company appeared to suffer from many booking cancellations with a total of 
+Furthermore, the hotel company appeared to suffer from many booking cancellations with a total of around 33k. The issue here can be emphasized when calculating the total missed revenue as a result of such cancellations, which adds up to around £298M.
+
+- To tackle this, the company could adjust their policies surrounding cancellations such as 
