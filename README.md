@@ -20,3 +20,5 @@ Steps taken:
 - Vizualised data to convey performance of the company over the course of 3 months
 
 # Findings
+
+Out of the total number of bookings, just 15% were booked directly. This could be an issue as indirect bookings charge commission which will ultimately reduce the total revenue for the hotel company.
