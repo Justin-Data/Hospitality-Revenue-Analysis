@@ -3,7 +3,7 @@
 
 
 
-The link to the interactive Power BI dashboard can be accessed here: (link here)
+
 
 # Project Overview
 For this challenge project, the objective was to analyse the historical data of a hotel company and provide insights to assist in increasing their performance in the hospitality industry.
