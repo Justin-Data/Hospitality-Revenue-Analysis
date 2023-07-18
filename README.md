@@ -1,5 +1,6 @@
 # Hospitality-Revenue-Analysis
-![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis-PowerBI/assets/137729013/1ce78e81-add7-40a5-8f96-ba3141b663c5)
+![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis-PowerBI/assets/137729013/052ef081-1b06-404a-87fb-ea6199689116)
+
 
 
 
