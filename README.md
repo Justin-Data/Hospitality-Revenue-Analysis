@@ -32,7 +32,7 @@ Out of the total number of bookings, just 15% were booked directly. This could b
 
 Furthermore, the hotel company appeared to suffer from many booking cancellations with a total of around 33k. The issue here can be emphasized when calculating the total missed revenue as a result of such cancellations, which adds up to around £298M.
 
-![Bookings Outcome](Outcome.png)
+![Bookings Outcome](outcome.png)
 
 - To tackle this, the company could adjust their policies surrounding cancellations in regards to deposits, refunds and cancellation fees to reduce revenue loss. However, it is important to note that this could lead to less bookings for the hotel.
 
