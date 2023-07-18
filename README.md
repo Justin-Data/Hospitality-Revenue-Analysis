@@ -30,7 +30,7 @@ Out of the total number of bookings, just 15% were booked directly. This could b
 
 - As such, emphasizing direct bookings could lead to increased revenue for the company, which could be achieved by providing an incentive for customers to book directly and marketing the hotel website acccordingly.
 
-Furthermore, the hotel company appeared to suffer from many booking cancellations with a total of around 33k. The issue here can be emphasized when calculating the total missed revenue as a result of such cancellations (Revenue_generated - Revenue_realized), which adds up to around £298M.
+Furthermore, the hotel company appeared to suffer from many booking cancellations with a total of around 33k. The issue here can be emphasized when calculating the total missed revenue as a result of such cancellations, which adds up to around £298M. (Revenue_generated - Revenue_realized)
 
 ![Bookings Outcome](outcome.png)
 
