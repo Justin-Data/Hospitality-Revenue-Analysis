@@ -33,3 +33,16 @@ Furthermore, the hotel company appeared to suffer from many booking cancellation
 ![Bookings Outcome](Outcome.png)
 
 - To tackle this, the company could adjust their policies surrounding cancellations in regards to deposits, refunds and cancellation fees to reduce revenue loss. However, it is important to note that this could lead to less bookings for the hotel.
+
+
+Other findings:
+
+- Hotel Exotica in Newcastle generated the most revenue with around £212M
+- Newcastle also saw the most revenue with £669M which makes up 39% of their total revenue
+- The average rating was 3.62 with hotels in London seeing the highest average score of 3.78
+- Hotel Seasons in Newcastle had the lowest average rating of 2.29
+- Hotel Blu has the highest occupancy rate with 62%
+- Hotel Grands in Leeds has the lowest occupancy rate with 44%
+- The room class 'Elite' had the most bookings with around 49k and genereated the most revenue with around £560M
+- Hotel Seasons in Newcastle had the highest Average Daily Rate (ADR) with around £16.6k
+- The month of May recorded the highest revenue over the 3 months with around £581M
