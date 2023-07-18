@@ -24,8 +24,12 @@ Steps taken:
 
 Out of the total number of bookings, just 15% were booked directly. This could be an issue as indirect bookings, such as through online travel agencies, charge commission which will ultimately reduce the total revenue for the hotel company.
 
+![Bookings](bookings.png)
+
 - As such, emphasizing direct bookings could lead to increased revenue for the company, which could be achieved by providing an incentive for customers to book directly and marketing the hotel website acccordingly.
 
 Furthermore, the hotel company appeared to suffer from many booking cancellations with a total of around 33k. The issue here can be emphasized when calculating the total missed revenue as a result of such cancellations, which adds up to around £298M.
+
+![Bookings Outcome](Outcome.png)
 
 - To tackle this, the company could adjust their policies surrounding cancellations in regards to deposits, refunds and cancellation fees to reduce revenue loss. However, it is important to note that this could lead to less bookings for the hotel.
