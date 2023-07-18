@@ -1,7 +1,7 @@
 # Hospitality-Revenue-Analysis
 ![image](https://github.com/Justin-Data/Hospitality-Revenue-Analysis-PowerBI/assets/137729013/319ab690-cf32-4f2d-a0e9-2223f0196356)
 
-
+A larger version of the dashboard can be viewed [here](https://github.com/Justin-Data/Hospitality-Revenue-Analysis-PowerBI/blob/main/Hotel%20Dashboard%20Picture.png), while the interactive version can be accessed through the file 'Hotel Revenue Analysis.pbix'.
 
 
 
