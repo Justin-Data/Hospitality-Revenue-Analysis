@@ -11,9 +11,9 @@ A larger version of the dashboard can be viewed [here](https://github.com/Justin
 For this challenge project, the objective was to analyse the historical data of a hotel company and provide insights to assist in increasing their performance in the hospitality industry.
 
 Tasks:
-- Explore and analyse key metrics related to the hospitality industry
-- Develop a dashboard showcasing an overview surrounding the performance of the company
-- Provide insights and potential suggestions to increase revenue for the company
+- Explore key metrics related to the hospitality industry
+- Develop a dashboard showcasing a performance overview for the company
+- Provide insights and potential suggestions to increase revenue
 
 Steps taken:
 
