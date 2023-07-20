@@ -12,7 +12,7 @@ For this challenge project, the objective was to analyse the historical data of 
 
 Tasks:
 - Explore key metrics related to the hospitality industry
-- Develop a dashboard showcasing a performance overview for the company
+- Develop a dashboard showcasing the performance of the company
 - Provide insights and potential suggestions to increase revenue
 
 Steps taken:
