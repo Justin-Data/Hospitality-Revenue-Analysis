@@ -8,7 +8,7 @@ A larger version of the dashboard can be viewed [here](https://github.com/Justin
 
 
 # Project Overview
-For this project, the objective was to analyse the historical data of a hotel company and provide insights to assist in increasing their performance in the hospitality industry.
+For this project, the objective was to analyse the historical data of a hotel company and provide insights to assist in increasing their performance in the hospitality industry
 
 Tasks:
 - Explore key metrics related to the hospitality industry
