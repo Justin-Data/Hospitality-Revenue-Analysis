@@ -3,7 +3,7 @@
 
 
 
-A larger picture of the dashboard can be viewed [here]([https://github.com/Justin-Data/Hospitality-Revenue-Analysis-PowerBI/blob/main/Hotel%20Dashboard%20Picture.png](https://github.com/justinlecorre/Hospitality-Revenue-Analysis-PowerBI/blob/main/PowerBI_Dashboard.png)), while the interactive version can be accessed through the file 'Hotel Revenue Analysis File.pbix'.
+A larger picture of the dashboard can be viewed [here](https://github.com/justinlecorre/Hospitality-Revenue-Analysis-PowerBI/blob/main/PowerBI_Dashboard.png), while the interactive version can be accessed through the file 'Hotel Revenue Analysis File.pbix'.
 
 
 
