@@ -29,18 +29,7 @@ Steps taken:
 
 # Findings
 
-1. Occupancy Rate
-
-In using DAX to assess key hospitality KPIs, 4 hotels with low occupancy rates were identified.
-![image](https://github.com/justinlecorre/Hospitality-Revenue-Analysis-PowerBI/assets/137729013/f941c142-377d-4e4d-95be-4bd98353fc34)
-
-TBC
-
-
-
-
-
-2. Direct Bookings
+Direct Bookings
 
 Out of the total number of bookings, just 15% were booked directly. This could be an issue as indirect bookings, such as through online travel agencies, charge commission which will ultimately reduce the total revenue for the hotel company.
 
